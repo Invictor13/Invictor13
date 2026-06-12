@@ -45,11 +45,11 @@ Atualmente, atuo como Analista de Suporte de TI na Unimed Litoral. Sou responsá
 ## 📊 Estatísticas e Evolução Contínua
 
 <p align="left">
-  <!-- Card de Estatísticas Gerais (Geral de commits, PRs, Issues e Stars) -->
+  <!-- Card de Estatísticas Gerais ajustado para ler commits privados -->
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Invictor13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   
-  <!-- Card de Linguagens Mais Usadas (Igual ao do seu print, configurado para você) -->
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invictor13&layout=compact&langs_count=7&theme=dracula" />
+  <!-- Card de Linguagens adicionando o parâmetro para computar contribuições em forks -->
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invictor13&layout=compact&langs_count=7&theme=dracula&forks=true" />
 </p>
 
 ---
