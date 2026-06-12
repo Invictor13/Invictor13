@@ -1,17 +1,21 @@
 # 🐺 Olá, Mundo! Invictor13 na Área
 
 Engenheiro de Produção com especialização em Engenharia de Software e em Business Intelligence, Big Data e Analytics.
+Atualmente, busco unir a visão sistêmica da engenharia à gestão operacional de Tecnologia da Informação, com foco em otimização de processos de atendimento, gerenciamento de fluxos de trabalho e eficiência em infraestrutura de TI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
-[![Meu Perfil na DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invictor13)
+---
 
+## 🚀 Projetos em Destaque
+
+Como parte da minha evolução na plataforma da DIO, desenvolvi e gerencio o seguinte ecossistema prático:
+
+*   🐍 **[Desbravando o Universo Python](https://github.com/Invictor13/Desbravando_o_universo_PYTHON):** Ambiente completo de aprendizado focado em desafios práticos. O projeto conta com arquitetura estruturada de pastas, cobertura de testes automatizados com **Pytest**, automação de regras de proteção de branch (**GitHub Rulesets**), gerenciamento de tarefas via **Kanban** e templates customizados de **Issues**.
 
 ---
 
 ## 📐 Minha Trajetória & Competências
 
-* **Operação e Processamento de Dados:** Experiência de 3 anos no Hospital São Vicente de Paulo, atuando na gestão de requisições, análise de requisitos e suporte operacional em um ambiente de saúde de alta criticality, utilizando metodologias ágeis (Scrum, Jira).
+* **Operação e Processamento de Dados:** Experiência de 3 anos no Hospital São Vicente de Paulo, atuando na gestão de requisições, análise de requisitos e suporte operacional em um ambiente de saúde de alta criticidade, utilizando metodologias ágeis (Scrum, Jira).
 * **Governança e Planejamento de TI:** Vivência prática na elaboração e acompanhamento do Plano Diretor de Tecnologia da Informação (PDTI) na Prefeitura de Angra dos Reis, além de atuação em manutenção de hardware e rotinas administrativas.
 * **Fundamentação Técnica e Acadêmica:** Pós-graduações concluídas em Engenharia de Software e BI/Analytics, que me fornecem o embasamento teórico e lógico para entender a arquitetura de sistemas e aplicar conceitos de análise de dados no dia a dia da operação.
 * **Atendimento e Gestão de Clientes:** Sólida base de atendimento ao público corporativo (PJ) e individual (PF) desenvolvida em experiências no setor bancário (Caixa Econômica Federal) e em gestão administrativa hospitalar.
@@ -53,3 +57,8 @@ Engenheiro de Produção com especialização em Engenharia de Software e em Bus
 
 ---
 
+## 🤝 Contato & Conexões
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
+[![Meu Perfil na DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invictor13)
