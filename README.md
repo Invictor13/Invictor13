@@ -2,11 +2,10 @@
 
 Engenheiro de Produção com especialização em Engenharia de Software e em Business Intelligence, Big Data e Analytics.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
+[![Meu Perfil na DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invictor13)
 
-Minha atuação profissional une a visão sistêmica da engenharia à gestão operacional de Tecnologia da Informação, com foco em otimização de processos de atendimento, gerenciamento de fluxos de trabalho e eficiência em infraestrutura de TI.
-
-Atualmente, atuo como Analista de Suporte de TI na Unimed Litoral. Sou responsável pelo atendimento ao público interno, suporte técnico especializado, manutenção preventiva e corretiva de equipamentos, além do tratamento, triagem e escalonamento estratégico de chamados para os times especialistas — garantindo o cumprimento de SLAs e a melhoria contínua dos processos da área.
 
 ---
 
@@ -54,10 +53,3 @@ Atualmente, atuo como Analista de Suporte de TI na Unimed Litoral. Sou responsá
 
 ---
 
-## 🤝 Contato & Conexões
-
-Clique nos botões abaixo para se conectar comigo ou conferir meus repositórios:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
-[![Meu Perfil na DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invictor13)
