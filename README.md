@@ -12,21 +12,33 @@
 
 Transformando o suporte e a infraestrutura de TI através da visão sistêmica da Engenharia e da agilidade de processos. Atualmente, otimizando fluxos de trabalho, gerenciando incidentes e garantindo o cumprimento de SLAs como Analista de Suporte de TI na Unimed Litoral.
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
 [![Meu Perfil na DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
+
+</div>
 
 ---
 
 ## 🛠️ Stack Tecnológica & Ferramentas
 
+<div align="center">
+
 ### 💻 Desenvolvimento & Banco de Dados
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PYTHON](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
+<br />
+
 ### 📊 BI, Analytics & Processos Ágeis
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googledata-studio&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Office 365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&white) ![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googledata-studio&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Office 365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+
+<br />
 
 ### ⚙️ Infraestrutura & Ferramentas Dev
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+
+</div>
 
 ---
 
@@ -50,16 +62,19 @@ Repositório voltado ao domínio de controle de versão, boas práticas de docum
 
 ---
 
-## 📊 Estatísticas
 ---
-<p align="center">
-  <!-- Card de Estatísticas Gerais (Servidor Alternativo de Alta Disponibilidade) -->
-  <img height="150em" src="https://github-readme-stats-eight.vercel.app/api?username=Invictor13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
-  <!-- Card de Linguagens Mais Usadas (Servidor Alternativo de Alta Disponibilidade) -->
-  <img height="150em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Invictor13&layout=compact&langs_count=7&theme=dracula&forks=true" />
-</p>
 
-</div>
+## 📊 Estatísticas & Atividade Contínua
+
+<div align="center">
+
+<!-- Linha 1: Métricas Gerais em Badges Dinâmicos -->
+![Commits](https://img.shields.io/github/commits-per-year/Invictor13/Invictor13?style=flat&color=6f42c1&label=Commits%20no%20Ano)
+![Repositórios](https://img.shields.io/github/directory-file-count/Invictor13/Invictor13?style=flat&color=2188ff&label=Projetos%20Ativos)
+
+<br />
+
+<!-- Elemento Visual Definitivo: Gráfico de Atividade Real (Streak) Seguro -->
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Invictor13&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 </div>
