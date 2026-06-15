@@ -4,7 +4,7 @@
 
 **Engenheiro de Produção | Especialista em Engenharia de Software, BI & Analytics**
 
-<img src="./Invictor13_HUB.gif" width="75%" alt="Lobo Guará Programando" style="border-radius: 12px; margin-top: 15px; margin-bottom: 15px;" />
+<img src="Invictor13_HUB.gif" width="75%" alt="Lobo Guará Programando" style="border-radius: 12px; margin-top: 15px; margin-bottom: 15px;" />
 
 </div>
 
