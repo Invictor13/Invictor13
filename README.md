@@ -62,16 +62,24 @@ Repositório voltado ao domínio de controle de versão, boas práticas de docum
 
 ---
 
-## 📊 Estatísticas Dinâmicas (Métricas da Conta)
+## 📊 Painel de Controle Operacional (Métricas da Conta)
 
 <div align="center">
 
-<!-- Card Geral Dinâmico Ampliado - Servidor Alternativo de Alta Disponibilidade (Dracula) -->
-<img height="210em" src="https://github-readme-stats-eight.vercel.app/api?username=Invictor13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais do GitHub" style="margin-bottom: 15px;" />
+Acompanhe os principais indicadores de entrega técnica, governança de código e laboratórios de arquitetura ativos no ecossistema.
 
 <br />
 
-<!-- Card de Linguagens Dinâmico Ampliado - Layout Compacto (Dracula) -->
-<img height="210em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Invictor13&layout=compact&langs_count=7&theme=dracula&forks=true&hide_border=true" alt="Linguagens Mais Usadas" />
+<!-- Painel Superior: Indicadores Principais de Entrega -->
+### ⚡ Indicadores de Produção & Governança
+[![Python Lab](https://img.shields.io/badge/Ambiente_Python-Desafios_Práticos-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Invictor13/Desbravando_o_universo_PYTHON)
+[![GitHub Lab](https://img.shields.io/badge/Governança_Git-Controle_de_Versão-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invictor13/Desbravando_o_GitHub)
+
+<br />
+
+<!-- Painel Inferior: Lógica, Desenvolvimento e Suporte -->
+### 🛠️ Gestão de Operações & Infraestrutura
+[![Jira Automation](https://img.shields.io/badge/Automação_Jira-Severino_Core-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Invictor13/Severino)
+[![JS Sandbox](https://img.shields.io/badge/Lógica_JS-Sandbox_Active-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Invictor13/My-JS-Sandbox)
 
 </div>
