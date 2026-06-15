@@ -2,7 +2,11 @@
 
 # 🐺 Olá, Mundo! Invictor13 na Área
 
-**Engenheiro de Produção | Especialista em Engenharia de Software, BI & Analytics**
+<div align="center">
+  <video src="./Lobo_guará_programando_chovendo_..._202606151430.mp4" width="85%" autoplay loop muted playsinline style="border-radius: 12px; margin-bottom: 0px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"></video>
+</div>
+
+## Engenheiro de Produção | Especialista em Engenharia de Software, BI & Analytics 
 
 Transformando o suporte e a infraestrutura de TI através da visão sistêmica da Engenharia e da agilidade de processos. Atualmente, otimizando fluxos de trabalho, gerenciando incidentes e garantindo o cumprimento de SLAs como Analista de Suporte de TI na Unimed Litoral.
 
