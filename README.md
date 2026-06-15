@@ -2,8 +2,10 @@
 
 # 🐺 Olá, Mundo! Invictor13 na Área
 
-<div align="center">
-  <video src="./Lobo_guará_programando_chovendo_..._202606151430.mp4" width="85%" autoplay loop muted playsinline style="border-radius: 12px; margin-bottom: 0px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"></video>
+**Engenheiro de Produção | Especialista em Engenharia de Software, BI & Analytics**
+
+<img src="./Invictor13_HUB.gif" width="75%" alt="Lobo Guará Programando" style="border-radius: 12px; margin-top: 15px; margin-bottom: 15px;" />
+
 </div>
 
 ## Engenheiro de Produção | Especialista em Engenharia de Software, BI & Analytics 
