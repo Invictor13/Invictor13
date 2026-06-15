@@ -62,23 +62,16 @@ Repositório voltado ao domínio de controle de versão, boas práticas de docum
 
 ---
 
----
-
----
-
-## 📊 Atividade & Evolução Contínua
+## 📊 Estatísticas Dinâmicas (Métricas da Conta)
 
 <div align="center">
 
-### ⚡ Status dos Meus Laboratórios
-[![Python Learning Workflow](https://github.com/Invictor13/Desbravando_o_universo_PYTHON/actions/workflows/main.yml/badge.svg)](https://github.com/Invictor13/Desbravando_o_universo_PYTHON/actions)
-&nbsp;&nbsp;
-[![GitHub Learning Workflow](https://github.com/Invictor13/Desbravando_o_GitHub/actions/workflows/main.yml/badge.svg)](https://github.com/Invictor13/Desbravando_o_GitHub/actions)
+<!-- Card Geral Dinâmico Ampliado - Servidor Alternativo de Alta Disponibilidade (Dracula) -->
+<img height="210em" src="https://github-readme-stats-eight.vercel.app/api?username=Invictor13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais do GitHub" style="margin-bottom: 15px;" />
 
 <br />
 
-### 📈 Conexões Profissionais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
-[![Meu Perfil na DIO](https://img.shields.io/badge/DIO_Profile-000000?style=flat-square&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
+<!-- Card de Linguagens Dinâmico Ampliado - Layout Compacto (Dracula) -->
+<img height="210em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Invictor13&layout=compact&langs_count=7&theme=dracula&forks=true&hide_border=true" alt="Linguagens Mais Usadas" />
 
 </div>
