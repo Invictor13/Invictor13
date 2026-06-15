@@ -64,17 +64,21 @@ Repositório voltado ao domínio de controle de versão, boas práticas de docum
 
 ---
 
-## 📊 Estatísticas & Atividade Contínua
+---
+
+## 📊 Atividade & Evolução Contínua
 
 <div align="center">
 
-<!-- Linha 1: Métricas Gerais em Badges Dinâmicos -->
-![Commits](https://img.shields.io/github/commits-per-year/Invictor13/Invictor13?style=flat&color=6f42c1&label=Commits%20no%20Ano)
-![Repositórios](https://img.shields.io/github/directory-file-count/Invictor13/Invictor13?style=flat&color=2188ff&label=Projetos%20Ativos)
+### ⚡ Status dos Meus Laboratórios
+[![Python Learning Workflow](https://github.com/Invictor13/Desbravando_o_universo_PYTHON/actions/workflows/main.yml/badge.svg)](https://github.com/Invictor13/Desbravando_o_universo_PYTHON/actions)
+&nbsp;&nbsp;
+[![GitHub Learning Workflow](https://github.com/Invictor13/Desbravando_o_GitHub/actions/workflows/main.yml/badge.svg)](https://github.com/Invictor13/Desbravando_o_GitHub/actions)
 
 <br />
 
-<!-- Elemento Visual Definitivo: Gráfico de Atividade Real (Streak) Seguro -->
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Invictor13&theme=dracula&hide_border=true" alt="GitHub Streak" />
+### 📈 Conexões Profissionais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170)
+[![Meu Perfil na DIO](https://img.shields.io/badge/DIO_Profile-000000?style=flat-square&logo=gitbook&logoColor=white)](https://web.dio.me/users/victorviana70)
 
 </div>
