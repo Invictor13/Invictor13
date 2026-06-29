@@ -46,6 +46,9 @@ Transformando o suporte e a infraestrutura de TI através da visão sistêmica d
 
 Ambiente de aprendizado prático integrado com testes automatizados via **Pytest**, governança por **GitHub Rulesets** e gestão de fluxo via **Kanban**.
 
+### 🦇 **[Desbravando o Universo Bat](https://github.com/Invictor13/Desbravando-o-Universo-Bat)**
+Ambiente de Aprendizado prático, com aulas teóricas e projetos reais e aplicáveis. 
+
 ### 🛠️ **[Severino — Gestor de Chamados Jira](https://github.com/Invictor13/Severino)**
 
 Automação e gerenciamento inteligente de fluxos de trabalho e incidentes de TI, focado em otimização de processos de atendimento e cumprimento estrito de SLAs.
@@ -53,9 +56,5 @@ Automação e gerenciamento inteligente de fluxos de trabalho e incidentes de TI
 ### 🌐 **[My-JS-Sandbox](https://github.com/Invictor13/My-JS-Sandbox)**
 
 Laboratório pessoal de engenharia de software focado em algoritmos, manipulação de dados e lógica assíncrona utilizando **JavaScript** e **Node.js**.
-
-### 🎓 **[Desbravando o GitHub](https://github.com/Invictor13/Desbravando_o_GitHub)**
-
-Repositório voltado ao domínio de controle de versão, boas práticas de documentação técnica (`README.md`) e ferramentas open-source da plataforma.
 
 ---
