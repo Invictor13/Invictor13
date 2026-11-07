@@ -1,124 +1,141 @@
 <div align="center">
-
-# 🐺 Victor Ladislau Viana
-
-<img src="Invictor13_HUB.gif" width="75%" alt="Victor Ladislau — Invictor13 Hub" style="border-radius: 12px; margin-top: 15px; margin-bottom: 15px;" />
-
-### Engenheiro de Produção | Engenheiro de Software | BI & Analytics
-**Unindo visão sistêmica, engenharia de software e análise de dados para otimizar processos e construir produtos escaláveis.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Ladislau-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170/)
-[![GitHub](https://img.shields.io/badge/GitHub-Invictor13-181717?style=flat&logo=github&logoColor=white)](https://github.com/Invictor13)
-
+  <img src="Invictor13_HUB.gif" alt="Invictor13" width="720" />
 </div>
-
----
-
-## 📌 Sobre Mim
-
-Sou **Engenheiro de Produção** pós-graduado em **Engenharia de Software** e especializado em **BI & Analytics**. Minha trajetória integra o rigor analítico da engenharia e a melhoria contínua de processos ao desenvolvimento ágil de software e à governança de TI.
-
-No ambiente corporativo, atuo como **Analista de Suporte de TI na Unimed Litoral**, com foco em gestão de incidentes críticos, monitoramento de fluxos operacionais e cumprimento estrito de **SLAs**. No ecossistema de desenvolvimento, concebo, desenvolvo e publico produtos de software voltados para produtividade, segurança de visualização em tela e automação de sistemas.
-
----
-
-## 🚀 Produtos Publicados na Chrome Web Store
-
-Extensões homologadas e disponibilizadas publicamente na loja oficial do Google Chrome:
-
-### 🛡️ **[Tela Privada](https://chromewebstore.google.com/detail/tela-privada/pcaaiadmbhddaialecemcinlocbilkho)** — Proteção Visual para WhatsApp Web
-*Extensão Manifest V3 desenvolvida para salvaguardar informações confidenciais contra olhares curiosos e capturas indevidas em ambientes corporativos e compartilhados.*
-* **Status:** Publicado na Chrome Web Store
-* **Repositório:** [Invictor13/Extensao_Conversa_Segura](https://github.com/Invictor13/Extensao_Conversa_Segura)
-* **Tecnologias:** JavaScript, CSS3, Chrome Extensions API (Manifest V3, Content Scripts, Storage API)
-* **Diferenciais:** Ofuscação sob demanda em SPA de alto dinamismo, preservação de fluxo sem interrupções e foco total em privacidade.
-
-### 🌐 **[New Tab Custom](https://chromewebstore.google.com/detail/new-tab-custom/mhmbnkiaenkpakapbhikddechnalobaj)** — Sua Nova Guia, do Seu Jeito
-*Extensão minimalista e de alta performance que possibilita definir qualquer URL customizada como página inicial ao abrir uma nova guia no navegador.*
-* **Status:** Publicado na Chrome Web Store
-* **Repositório:** [Invictor13/Extensao_NewTab-chrome-custom-](https://github.com/Invictor13/Extensao_NewTab-chrome-custom-)
-* **Tecnologias:** JavaScript, HTML5, CSS3, Chrome Extensions API (chrome_url_overrides)
-* **Diferenciais:** Redirecionamento instantâneo via `window.location.replace` para manter a integridade da navegação, interface limpa e zero coleta de dados.
-
----
-
-## ⭐ Soluções de Engenharia & Destaques de Código Aberto
-
-### 🐺 **[Okami DriveHUB](https://github.com/Invictor13/Okami_DriveHUB)**
-> **Hub modular de arquivos e produtividade pessoal conectado ao Google Drive com UX inspirada em interfaces de console.**
-* **Stack:** TypeScript, Vite, Tailwind CSS, Vitest, Google Drive API
-* **Destaques Técnicos:** Arquitetura defensiva contra condições de corrida (*race conditions*), sincronização assíncrona desacoplada, navegação via atalhos de teclado e resiliência com tela de fallback e `ErrorBoundary`.
-
-### 🐍 **[Desbravando o Universo Python](https://github.com/Invictor13/Desbravando_o_universo_PYTHON)**
-> **Plataforma educacional prática com trilhas contínuas de aprendizado, automação e desafios de lógica.**
-* **Stack:** Python 3, Pytest, GitHub Rulesets, GitHub Actions, Mermaid.js
-* **Destaques Técnicos:** Governança com regras automatizadas de repositório, suíte de testes com Pytest, arquitetura modular e documentação orientada a fluxogramas.
-
----
-
-## ⚡ Pipeline de Projetos em Desenvolvimento
-
-Soluções em estágio avançado de engenharia e refinamento contínuo:
-
-* **📈 Assistente Financeiro (~80% concluído):** Sistema analítico voltado para acompanhamento de posições, cálculo de rendimentos e monitoramento de ativos do mercado financeiro brasileiro (B3) *(repositório privado)*.
-* **🎥 Sentinela (~90% concluído):** Suíte utilitária de produtividade concebida para gravação de telas, captura ágil e edição de mídias voltada à geração de evidências técnicas para suporte e testes *(repositório privado)*.
-* **🎫 Severino — Gestor de Chamados Jira:** Extensão utilitária para apoiar equipes de suporte com monitoramento de status, priorização visual e acompanhamento preventivo de SLAs ativos.
-
----
-
-## 🛠️ Stack Tecnológica & Ferramentas
-
-### 💻 Desenvolvimento & Engenharia de Software
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-### 📊 BI, Analytics & Processos
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googledata-studio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-### ⚙️ Infraestrutura, Automação & Ferramentas
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Batch Script](https://img.shields.io/badge/Windows_Batch-0078D6?style=flat&logo=windows&logoColor=white)
-
----
-
-## 📂 Outros Repositórios & Laboratórios Técnicos
-
-*Nota: O ecossistema de desenvolvimento pessoal contempla tanto repositórios públicos (13 visíveis) quanto projetos em evolução contínua, privados e corporativos.*
-
-<details>
-<summary><b>Clique para expandir os repositórios organizados por especialidade</b></summary>
 
 <br />
 
-### ⚙️ Infraestrutura, Scripts & Suporte de TI
-* **[Desbravando-o-Universo-Bat](https://github.com/Invictor13/Desbravando-o-Universo-Bat):** Centro de comandos, diagnósticos e automações com scripts `.bat` para ambientes corporativos Windows.
-* **[Desbravando_Google-Cloud-Development](https://github.com/Invictor13/Desbravando_Google-Cloud-Development):** Módulos práticos de automação com Google Apps Script, Google Drive e serviços Cloud.
-* **[Extensao_ChromeOkami-Edition](https://github.com/Invictor13/Extensao_ChromeOkami-Edition):** Projeto de interface contextual HUD para Google Chrome estruturado com TypeScript e Vite.
+# 🐺 Victor Ladislau Viana
 
-### 🌿 Aplicações Web & Sustentabilidade
-* **[DIO_ECO_CALCULADORA](https://github.com/Invictor13/DIO_ECO_CALCULADORA) (Rota Leve):** Calculadora estática de emissões de CO₂ em viagens rodoviárias com comparativo entre quatro modais de transporte.
+**Engenharia de Produção | Engenharia de Software | BI & Analytics**
 
-### 🧪 Laboratórios de Inovação & Experimentos
-* **[GAME_A-GitHub-Odissey](https://github.com/Invictor13/GAME_A-GitHub-Odissey):** Jogo web Roguelike 3D serverless renderizado em Three.js / WebGL, explorando limites de prototipagem ágil assistida por IA.
-* **[LAB_Dicionario-de-Prompts](https://github.com/Invictor13/LAB_Dicionario-de-Prompts):** Catálogo dinâmico e interativo de engenharia de prompts voltados à edição e geração visual.
-* **[DIO_Lab-natty-or-not](https://github.com/Invictor13/DIO_Lab-natty-or-not):** Estudo de caso multimídia de produção autoral integrando ferramentas de inteligência artificial generativa.
-* **[DIO_Suzano-PythonDeveloper-BANCO](https://github.com/Invictor13/DIO_Suzano-PythonDeveloper-BANCO):** Implementação de regras de negócio para operações bancárias via console em Python.
+Desenvolvimento de soluções tecnológicas, automação de processos e análise de dados. Unindo visão analítica, engenharia e tecnologia para transformar ideias em aplicações práticas.
 
-</details>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ladislau-14402a170/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Invictor13)
+
+---
+
+## 🛠️ Competências Técnicas
+
+**Desenvolvimento:**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+**Dados & Analytics:**
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://lookerstudio.google.com/)
+
+**Ferramentas & Engenharia:**
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)](https://www.office.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Engenheiro de Produção, pós-graduado em Engenharia de Software e especializado em BI & Analytics. Atualmente, atuo como Analista de Suporte de TI na Unimed Litoral, com experiência em infraestrutura, gestão de incidentes e acompanhamento de SLAs.
+
+Também desenvolvo projetos independentes nas áreas de software, automação, produtividade, jogos e análise de dados.
+
+---
+
+## 🚀 Produtos Publicados — Google Chrome Web Store
+
+Aplicações desenvolvidas e disponibilizadas oficialmente na loja de extensões do Google Chrome.
+
+**Tela Privada**
+
+Extensão de privacidade visual para o WhatsApp Web, com recursos de proteção e controle da exposição de informações na tela.
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/tela-privada/pcaaiadmbhddaialecemcinlocbilkho)
+- [Código-fonte](https://github.com/Invictor13/Extensao_Conversa_Segura)
+
+**New Tab Custom**
+
+Extensão para personalização da nova guia do Google Chrome, permitindo adaptar a experiência visual do navegador.
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/new-tab-custom/mhmbnkiaenkpakapbhikddechnalobaj)
+- [Código-fonte](https://github.com/Invictor13/Extensao_NewTab-chrome-custom-)
+
+---
+
+## 🔧 Projetos em Desenvolvimento
+
+Soluções autorais em diferentes estágios de desenvolvimento, abrangendo produtividade, gestão, automação e ferramentas digitais.
+
+**Assistente Financeiro — 80% concluído**
+
+Plataforma para gestão e acompanhamento de ativos da Bolsa de Valores brasileira (B3), com foco em informações e análise de investimentos em tempo real.
+
+<sub>Repositório privado — em desenvolvimento.</sub>
+
+**Sentinela — 90% concluído**
+
+Software para captura e gravação de telas, com funcionalidades de edição de imagens e vídeos. Atualmente em fase de ajustes documentais.
+
+<sub>Repositório privado — em finalização.</sub>
+
+**Severino — 95% concluído**
+
+Extensão para gestão de chamados do Jira, capaz de identificar mudanças de status e destacar chamados com SLA de atendimento ativo. O desenvolvimento funcional está concluído, restando apenas a documentação.
+
+<sub>Em fase final de documentação.</sub>
+
+**Editor e Compactador de PDF**
+
+Ferramenta para edição, organização e compactação de documentos PDF, com foco em praticidade e produtividade.
+
+**Okami DriveHUB**
+
+Hub modular de produtividade para centralização e organização de ferramentas e recursos relacionados ao Google Drive.
+
+- [Código-fonte](https://github.com/Invictor13/Okami_DriveHUB)
+
+---
+
+## 🎮 Jogos e Experimentos Tecnológicos
+
+Projetos experimentais desenvolvidos para explorar tecnologias, mecânicas de jogos, interfaces e novas possibilidades de desenvolvimento.
+
+**Jogos Web**
+
+Experimentos e jogos desenvolvidos com tecnologias web, incluindo projetos publicados e acessíveis por meio do GitHub Pages.
+
+**GitHub Odyssey**
+
+Experimento de desenvolvimento de um jogo Roguelike 3D, explorando recursos gráficos e mecânicas com Three.js e WebGL.
+
+- [Código-fonte](https://github.com/Invictor13/GAME_A-GitHub-Odissey)
+
+---
+
+## 📚 Projetos Educacionais
+
+Repositórios dedicados ao aprendizado contínuo, experimentação e compartilhamento de conhecimento em tecnologia.
+
+- **[Desbravando o Universo Python](https://github.com/Invictor13/Desbravando_o_universo_PYTHON):** exercícios, práticas e experimentos com Python.
+- **[Desbravando o Universo BAT](https://github.com/Invictor13/Desbravando-o-Universo-Bat):** automações e scripts para ambientes Windows.
+- **Desenvolvimento Web:** estudos e aplicações com tecnologias web.
+- **GitHub & Engenharia de Software:** versionamento, colaboração, organização de projetos e boas práticas de desenvolvimento.
+- **[Engenharia de Prompts](https://github.com/Invictor13/LAB_Dicionario-de-Prompts):** experimentação e organização de técnicas para criação de prompts.
+
+<br />
+
+[![Explorar todos os repositórios](https://img.shields.io/badge/Explorar%20todos%20os%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Invictor13?tab=repositories)
 
 ---
 
 <div align="center">
-  <sub>Construído com visão sistêmica, rigor técnico de engenharia e compromisso com entregas em produção.</sub>
+  <sub><em>Construindo, experimentando e evoluindo por meio da tecnologia.</em></sub>
 </div>
