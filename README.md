@@ -19,7 +19,7 @@ Engenheiro de Produção, pós-graduado em Engenharia de Software e especializad
 
 Também desenvolvo projetos independentes nas áreas de software, automação, produtividade, ferramentas de navegador, jogos e análise de dados, sempre buscando unir engenharia, inovação e necessidade real do usuário.
 
- ### 🛠️ Competências Técnicas
+### 🛠️ Competências Técnicas
 
 <div align="center">
   <table border="0" cellspacing="10" cellpadding="0">
@@ -51,56 +51,41 @@ Também desenvolvo projetos independentes nas áreas de software, automação, p
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
         <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
-        <img src="https://img.shields.io/badge/AntiGravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AntiGravity" />
+        <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
       </td>
     </tr>
   </table>
 </div>
 
-## 🚀 Produtos Publicados — Google Chrome Web Store
+---
 
-Aplicações desenvolvidas e disponibilizadas oficialmente na loja de extensões do Google Chrome.
+## 🚀 Produtos Distribuídos
 
-### 🛡️ Tela Privada
-> Extensão de privacidade visual para o WhatsApp Web, com recursos de proteção e controle da exposição de informações na tela.
+| Produto | Descrição | Distribuição |
+|---|---|---|
+| **Tela Privada** | Extensão de privacidade visual para o WhatsApp Web, com recursos de proteção e controle da exposição de informações na tela. | [Chrome Web Store](https://chromewebstore.google.com/detail/tela-privada/pcaaiadmbhddaialecemcinlocbilkho) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tela-privada/mgnaaflndjbiigpaicibclncajhopedm) · [Código-fonte](https://github.com/Invictor13/Extensao_Conversa_Segura) |
+| **New Tab Custom** | Extensão para personalização da nova guia do Google Chrome. | [Chrome Web Store](https://chromewebstore.google.com/detail/new-tab-custom/mhmbnkiaenkpakapbhikddechnalobaj) · [Código-fonte](https://github.com/Invictor13/Extensao_NewTab-chrome-custom-) |
 
-![Status](https://img.shields.io/badge/STATUS-PUBLICADO-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)
-[![Loja](https://img.shields.io/badge/LOJA-Chrome_Web_Store-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/category/extensions)
-[![Codigo Fonte](https://img.shields.io/badge/CODIGO_FONTE-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Invictor13)
+## 🔧 Produtos em Desenvolvimento
 
-### 📑 New Tab Custom
-> Extensão para personalização da nova guia do Google Chrome, permitindo adaptar a experiência visual do navegador.
+| Projeto | Descrição | Repositório |
+|---|---|---|
+| **Assistente Financeiro** | Plataforma para gestão e acompanhamento de ativos da Bolsa de Valores brasileira (B3), com informações e análise de investimentos. | Privado |
+| **Sentinela** | Software de captura e gravação de telas, com recursos de edição de imagens e vídeos. | [GitHub](https://github.com/Invictor13/Software_Sentinela) |
+| **Severino** | Extensão para gestão de chamados do Jira, identificação de mudanças de status e acompanhamento de SLAs ativos. | Em desenvolvimento |
+| **Editor e Compactador de PDF** | Ferramenta para edição, organização e compactação de documentos PDF. | Em desenvolvimento |
+| **Código Guará** | RPG com narrativa adaptativa, inteligência artificial, NPCs sociais e combate tático. | [GitHub](https://github.com/Invictor13/LAB_livro-GENESIS) |
+| **Desk-Admin** | Extensão de produtividade com utilitários para documentos, arquivos, textos e imagens. | [GitHub](https://github.com/Invictor13/extensao_Desk-Admin) |
 
-![Status](https://img.shields.io/badge/STATUS-PUBLICADO-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)
-[![Loja](https://img.shields.io/badge/LOJA-Chrome_Web_Store-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/category/extensions)
-[![Codigo Fonte](https://img.shields.io/badge/CODIGO_FONTE-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Invictor13)
+## 📚 Repositórios Escolares
 
-## 🔧 Projetos em Desenvolvimento
+| Repositório | Descrição | Acesso |
+|---|---|---|
+| **Desbravando o GitHub** | Estudos e práticas de versionamento, controle de código e colaboração com GitHub. | [GitHub](https://github.com/Invictor13/Desbravando-o-GitHub) |
+| **Desbravando o Universo BAT** | Estudos e experimentos com arquivos BAT e automação no Windows. | [GitHub](https://github.com/Invictor13/Desbravando-o-Universo-Bat) |
+| **Desbravando Desenvolvimento Web** | Estudos e projetos voltados ao desenvolvimento web. | [GitHub](https://github.com/Invictor13/Desbravando-Desenvolvimento-Web) |
 
-Soluções autorais em desenvolvimento, com foco em produtividade, automação, gestão e ferramentas digitais.
-
-### 📈 Assistente Financeiro
-> Plataforma para gestão e acompanhamento de ativos da Bolsa de Valores brasileira (B3), com informações e análise de investimentos em tempo real.
-
-![Progresso](https://img.shields.io/badge/PROGRESSO-80%25_Concluido-007ec6?style=flat-square)
-![Repositorio](https://img.shields.io/badge/REPOSITORIO-Privado_-_Em_Desenvolvimento-8b949e?style=flat-square)
-
-### 🎬 Sentinela
-> Software de captura e gravação de telas, com recursos de edição de imagens e vídeos.
-
-![Progresso](https://img.shields.io/badge/PROGRESSO-90%25_Concluido-007ec6?style=flat-square)
-![Repositorio](https://img.shields.io/badge/REPOSITORIO-Privado_-_Ajustes_de_Documentacao-8b949e?style=flat-square)
-
-### 🎫 Severino
-> Extensão para gestão de chamados do Jira, capaz de identificar mudanças de status e destacar chamados com SLA de atendimento ativo.
-
-![Progresso](https://img.shields.io/badge/PROGRESSO-95%25_Concluido-007ec6?style=flat-square)
-![Etapa Atual](https://img.shields.io/badge/ETAPA_ATUAL-Documentacao_Final-d96429?style=flat-square)
-
-### 📄 Editor e Compactador de PDF
-> Ferramenta para edição, organização e compactação de documentos PDF, voltada à produtividade e ao gerenciamento de arquivos.
-
-![Etapa](https://img.shields.io/badge/ETAPA-Em_Desenvolvimento-d96429?style=flat-square)
+---
 
 ## 📌 Perfil Profissional
 
